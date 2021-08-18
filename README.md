@@ -1,4 +1,4 @@
-<h1> Hi, I'm Suman Raj Khanal 👋
+<h1> Hi, I'm Suman Raj Khanal <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="90"/>
   <img align="right" src="https://www.montana.edu/everest/facts/images/ff03_01.png" width="140px" height="160px">
 </h1>
 <p>Programming and Web development have always been topics of fascination to me. Over the years, I’ve garnered decent experience on coding. 
@@ -107,5 +107,5 @@
 </tbody>
 </table>
 
-<img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>I love to make you happy,</b> so say hi!<b> I'll try my best</b>😍</em>
+<img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>I love to make you happy,</b> so say hi!<b> I'll try my best</b>😍</em> <br>
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srksuman&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srksuman&hide=prs,issues,contribs?username=srksuman&count_private=true?username=srksuman&show_icons=true&layout=compact&theme=midnight-purple)
