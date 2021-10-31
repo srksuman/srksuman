@@ -110,3 +110,8 @@
 
 <img src="https://media3.giphy.com/media/2t9y9b5AH4ljV0S7fu/giphy.gif?cid=ecf05e47bbqe793q6egvgieiutuqd4xjpcrbilwozgmvohau&rid=giphy.gif" width="40" height="40"> <em><b>I love to make you happy,</b> so say hi!<b> I'll try my best</b>😍</em> <br>
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srksuman&layout=compact&theme=midnight-purple) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srksuman&count_private=true&show_icons=true&theme=midnight-purple)
+
+🐍 **Keep an eye on my contribution graph, It's devoured by the snake.**
+<p align="center">
+  <img src="https://github.com/srksuman/srksuman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
